@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="frag_content_main">0dp</dimen>
+    <dimen name="text_size_title">36sp</dimen>
+    <dimen name="btn_width_ff">130dp</dimen>
+    <dimen name="btn_size">20dp</dimen>
+    <dimen name="tv_title_margin_top">50dp</dimen>
+    <dimen name="btn_width_fs">130dp</dimen>
+    <dimen name="et_margin_top_fs">100dp</dimen>
+    <dimen name="et_text_size_fs">20sp</dimen>
+    <dimen name="btn_text_size_ff">20sp</dimen>
+    <dimen name="btn_back_fs">15sp</dimen>
+    <dimen name="btn_submit_names_fs">15sp</dimen>
+</resources>

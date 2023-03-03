@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="tv_title">
+        <item name="android:textSize">@dimen/text_size_title</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="btn_tv_style">
+        <item name="android:textSize">@dimen/btn_size</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+</resources>

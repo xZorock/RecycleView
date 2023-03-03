@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="button_settings_AM">Settings</string>
+    <string name="button_play_AM">Play</string>
+    <string name="text_home_title_AM">Tic Tac Toe</string>
+    <string name="button_choose_options">Audio</string>
+    <string name="tv_title">Tic Tac Toe</string>
+    <string name="PlayerSetupTitle">Enter Your Name</string>
+    <string name="tv_1">Player 1</string>
+    <string name="tv_2">Player 2</string>
+    <string name="btn_submit">Submit Names</string>
+    <string name="name_hint">Enter Your Name</string>
+    <string name="btn_back">Back</string>
+</resources>
